@@ -13,17 +13,10 @@ This usually involves new methodological and software development. Application a
 web, social, and geospatial systems.
 
 **Members**
-1. Ning Xie (PhD)
-1. Kyle Brown (PhD)
-1. Mahdieh Zabihimayvan (PhD)
-1. Matt Piekenbrock (MS)
-1. Jace Robinson (MS) 
-1. Matt Maurice (MS)
-
 | PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
 | Kyle Brown | Matt Maurice | Jameson Morgan|
-| Ning Xie | Jace Robinson | Logan Rickert|
+| ![Ning Xie]((/images/editing-talk.png) | Jace Robinson | Logan Rickert|
 | Mahdieh Zabihimayvan | Matt Piekenbrock | |
 
 
