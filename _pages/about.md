@@ -16,7 +16,7 @@ of all kinds, but especially those that are web, social, and geospatial in natur
 | PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
 | Kyle Brown | Matt Maurice | Jameson Morgan |
-| ![Ning Xie](http://www.wright.edu/~xie.25/) | Jace Robinson | Logan Rickert |
+| [Ning Xie](http://www.wright.edu/~xie.25/) | Jace Robinson | Logan Rickert |
 | Mahdieh Zabihimayvan | Matt Piekenbrock | | 
 
 **Alumni**
