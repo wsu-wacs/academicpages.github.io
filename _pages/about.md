@@ -20,11 +20,12 @@ web, social, and geospatial systems.
 1. Jace Robinson (MS) 
 1. Matt Maurice (MS)
 
-| Priority apples | Second priority | Third priority |
+| PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| Kyle Brown | Matt Maurice | Jameson Morgan|
+| Ning Xie | Jace Robinson | Logan Rickert|
+| Mahdieh Zabihimayvan | Matt Piekenbrock | |
+
 
 **Alumni**
 
