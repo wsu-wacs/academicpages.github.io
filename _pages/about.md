@@ -16,7 +16,7 @@ of all kinds, but especially those that are web, social, and geospatial in natur
 |-------|--------|---------|
 | Kyle Brown | Matt Maurice | Jameson Morgan |
 | Ning Xie | Jace Robinson | Logan Rickert |
-| Mahdieh Zabihimayvan | Matt Piekenbrock |
+| Mahdieh Zabihimayvan | Matt Piekenbrock | | 
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
