@@ -12,6 +12,7 @@ modeling, nonparametric clustering, and topological methods to understand comple
 of all kinds, but especially those that are web, social, and geospatial in nature.
 
 **Members**
+
 | PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
 | Kyle Brown | Matt Maurice | Jameson Morgan |
@@ -25,6 +26,7 @@ of all kinds, but especially those that are web, social, and geospatial in natur
 | honeycrisp | granny smith | fuji |
 
 **Alumni**
+
 | Student | Degree | Position |
 |-------|--------|---------|
 | Nathan Rude | MS | Software Enigneer @ LexisNexis Special Services |
