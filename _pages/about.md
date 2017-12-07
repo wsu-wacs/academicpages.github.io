@@ -18,6 +18,11 @@ of all kinds, but especially those that are web, social, and geospatial in natur
 | Ning Xie | Jace Robinson | Logan Rickert |
 | Mahdieh Zabihimayvan | Matt Piekenbrock |
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 **Alumni**
 | Student | Degree | Position |
