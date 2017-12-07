@@ -20,6 +20,12 @@ web, social, and geospatial systems.
 1. Jace Robinson (MS) 
 1. Matt Maurice (MS)
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 **Alumni**
 
 Getting started
