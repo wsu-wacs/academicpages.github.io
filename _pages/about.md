@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 The Web and Complex Systems (WaCS) Laboratory investigates deep learning, statistical graph 
-modeling, nonparametric clustering, and topological methods to understand complex systems 
-of all kinds, but especially those that are web, social, and geospatial in nature.
+modeling, nonparametric clustering, and topological methods to understand complex systems.
+We are especially interested in web, social, and geospatial systems.
 
 **Members**
 
