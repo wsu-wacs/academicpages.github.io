@@ -15,11 +15,16 @@ of all kinds, but especially those that are web, social, and geospatial in natur
 | PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
 | Kyle Brown | Matt Maurice | Jameson Morgan|
-| ![Ning Xie]((/images/editing-talk.png) | Jace Robinson | Logan Rickert|
+| Ning Xie | Jace Robinson | Logan Rickert|
 | Mahdieh Zabihimayvan | Matt Piekenbrock | 
 
 
 **Alumni**
+| Student | Degree | Position |
+| Nathan Rude | MS | Software Enigneer @ LexisNexis Special Services|
+| Samir Yelne | MS | Data Scientist @ Cisco Systems|
+| Nripesh Trivedi | BS | PhD Student @ UC Riverside|
+| Scott Duberstein | BS | Software Engineer @ Ball Aerospace |
 
 Getting started
 ======
