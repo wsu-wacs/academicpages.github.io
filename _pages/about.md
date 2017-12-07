@@ -11,7 +11,7 @@ The Web and Complex Systems (WaCS) Laboratory investigates deep learning, statis
 modeling, nonparametric clustering, and topological methods to understand complex systems.
 We are especially interested in web, social, and geospatial systems.
 
-## Members
+### Members
 
 | PhD Students | MS Students | Undergraduate Students |
 |-------|--------|---------|
@@ -19,7 +19,7 @@ We are especially interested in web, social, and geospatial systems.
 | [Ning Xie](http://www.wright.edu/~xie.25/) | Jace Robinson | Logan Rickert |
 | Mahdieh Zabihimayvan | Matt Piekenbrock | | 
 
-## Alumni
+### Alumni
 
 | Student | Degree | Position |
 |-------|--------|---------|
@@ -28,7 +28,7 @@ We are especially interested in web, social, and geospatial systems.
 | Nripesh Trivedi | BS | PhD Student @ UC Riverside |
 | Scott Duberstein | BS | Software Engineer @ Ball Aerospace |
 
-## Latest News
+### Latest News
 -------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
