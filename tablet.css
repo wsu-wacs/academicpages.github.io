@@ -1,0 +1,41 @@
+.thirds {
+    width: 90%;
+    padding: 10px 0;
+}
+
+.thirds h3 {
+    text-align: center;
+}
+
+#content {
+    width: 100%;
+    padding: 20px;
+}
+
+div.cara {
+    width: 90%;
+}
+
+#header_in {
+    width: 100%;
+}
+
+#main_part_in, #main_part_inner_in {
+    width: 100%;
+}
+
+textarea {
+    max-width: 80%;
+}
+
+.about_blok {
+    width: 90%;
+}
+
+p.about {
+    width: 100%;
+}
+
+#footer_in {
+    width: 100%;
+}
