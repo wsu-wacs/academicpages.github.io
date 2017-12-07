@@ -1,3 +1,5 @@
+
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -145,6 +147,8 @@ div.cara {
     width: 100%;
     height: 75px;
     background-color: #fff;
+    position: fixed;
+
 }
 
 #header_in {
@@ -153,6 +157,7 @@ div.cara {
     height: 75px;
     margin: auto;
     position: relative;
+
 }
 
 #header_in h1 {
@@ -160,6 +165,7 @@ div.cara {
     letter-spacing: 1px;
     float: left;
     padding-top: 25px;
+    padding-right: 50px;
 }
 
 #header_in h1 a {
@@ -175,13 +181,16 @@ div.cara {
     /* ----- Menu ----- */
     
     #menu {
-	position: absolute;
-	right: 00px;
-	font-size: 95%;
-	/*background: url('img/m.png') no-repeat scroll right;*/
+    font-size: 15pt;
+    letter-spacing: 1px;
+    float: center;
+    display: inline-block;
+    text-align: center;
+    position: relative;
     background: white;
     color: black;
-	margin-right: 0px;
+    padding: 25px 25px 10px 5px;
+
     }
     
     
@@ -190,16 +199,19 @@ div.cara {
 	display: inline;
     }
     
+
     #menu ul li a {
 	text-decoration: none;
 	color: #101115;
 	text-transform: uppercase;
 	font-weight: 300;
 	letter-spacing: 1px;
+
 	display: block;
 	padding: 29px 40px 0 40px;
 	height: 46px;
 	background-color: #fff;
+
     }
     
     #menu ul li a:hover {
@@ -241,6 +253,7 @@ div.cara {
     text-align: center;
     color: #fff;
     text-shadow: 0px 1px #000;
+    padding-top: 100px;
 }
 
 #main_part_in p {
@@ -249,6 +262,7 @@ div.cara {
     color: #bcbcbc;
     text-align: center;
     text-shadow: 0px 1px #000;
+
 }
 
 #main_part .button_main {
@@ -287,6 +301,16 @@ div.cara {
     width: 960px;
     margin: auto;
     padding-top: 40px;
+    text-justify: auto;
+    padding-top: 25px;
+}
+
+#contentsub {
+       width: 960px;
+    margin: auto;
+    padding-top: 40px;
+    text-justify: auto;
+    padding-top: 100px; 
 }
 
 #content_inner {
@@ -676,7 +700,9 @@ p.textit {
 
 p.about {
     /*width: 540px;*/
-    margin: 0px 0 5px 10px;
+    float: center;
+    text-justify: auto;
+    margin: 10px 0 5px 10px;
     color: #27292a;
     font-size: 95%;
     font-weight: 400;
